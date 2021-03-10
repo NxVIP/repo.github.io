@@ -1,0 +1,15 @@
+Package: com.nxvip.Xvpn
+Version: 24.1
+Architecture: iphoneos-arm
+Maintainer: NxVIP <naiyfb1@gmail.com>
+Depends: 
+Filename: ./debs/com.nxvip.Xvpn.deb
+Size: 23173529.6
+MD5sum: 6BE7BE7D2193385A953DB32BB6C9F67B
+SHA1: 9C0BC16DB0196835573EE90C443BC6AE1258AE06
+SHA256: C5B2A8A22B97AE4B02BABD5ECC71DEE746297DF68FB3669EEE762593A7274A6F
+Section: Entertainment
+Description: fast vpn app
+Author: NxVIP
+Name: X-VPN
+
