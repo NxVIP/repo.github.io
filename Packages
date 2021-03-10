@@ -13,17 +13,3 @@ Description: fast vpn app
 Author: NxVIP
 Name: X-VPN
 
-Package: com.nxvip.flyjbx
-Version: 1.1.15
-Architecture: iphoneos-arm
-Maintainer: NxVIP <naiyfb1@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.nxvip.flyjbx_1.1.15_iphoneos-arm.deb
-Size: 1576
-MD5sum: 08fea434c6a6690660b52c4ebd95976f
-SHA1: f39d2175dd0d2472e93186cba315c2c50fcd4939
-SHA256: ca0c55c6b7eb50427569a8c705aae8a15dc114d996915dbe665a2d3ed2777394
-Section: Tweaks
-Description: You can HIDE Doing jailbreak your iDevice
-Author: NxVIP
-Name: FlyJB X
