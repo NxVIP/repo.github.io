@@ -18,11 +18,11 @@ Version: 1.1.15
 Architecture: iphoneos-arm
 Maintainer: NxVIP <naiyfb1@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/kr.xsf1re.flyjbx_1.1.15_iphoneos-arm.deb
+Filename: ./debs/com.nxvip.flyjbx_1.1.15_iphoneos-arm.deb
 Size: 1576
-MD5sum: 52C851DFF2539D262F4F71A8F5105442
-SHA1: DBFF1ABB0CD0C2467E495CC9C2E5BB3A4DC60CDF
-SHA256: A1DFA4B716F48F42F42C17404C888DD9675F155CF3035B2EF6E5DA236ED847BB
+MD5sum: 08fea434c6a6690660b52c4ebd95976f
+SHA1: f39d2175dd0d2472e93186cba315c2c50fcd4939
+SHA256: ca0c55c6b7eb50427569a8c705aae8a15dc114d996915dbe665a2d3ed2777394
 Section: Tweaks
 Description: You can HIDE Doing jailbreak your iDevice
 Author: NxVIP
