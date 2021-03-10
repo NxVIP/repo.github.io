@@ -13,3 +13,17 @@ Description: fast vpn app
 Author: NxVIP
 Name: X-VPN
 
+Package: com.nxvip.esign
+Version: 3.2.0
+Architecture: iphoneos-arm
+Maintainer: NxVIP <naiyfb1@gmail.com>
+Depends: 
+Filename: ./debs/com.nxvip.esign_3.2.deb
+Size: 4767754
+MD5sum: dd3a7e63ddfc70d93a5b79bd8792bc60
+SHA1: b83c1c0a1eff9e79a01e6c4d2f9f168de93b17ba
+SHA256: 0c83d4770cf8bea26dc2cd0ee0936780761e36cba09e818a132f5a7b55321fd0
+Section: Tweaks
+Description: sign app ipa 
+Author: NxVIP
+Name: ESign
